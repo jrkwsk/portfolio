@@ -1,0 +1,10 @@
+body {
+    font-family: 'spectral', sans-serif;
+    color: #291f1a;
+    font-weight: 300; 
+}
+
+nav {
+    display: block;
+    text-align: right;
+}
